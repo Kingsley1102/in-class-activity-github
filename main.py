@@ -1,6 +1,8 @@
+# Made by gef
 def hello():
     print("Hello from Student 1!")
 
+# Edited by kelly
 def hello():
     print("Hello from Student 2!")
 
