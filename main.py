@@ -5,4 +5,5 @@ def hello():
     print("Hello from Student 2!")
 
 if __name__ == "__main__":
-    hello()
+    hello1()
+    hello2()
